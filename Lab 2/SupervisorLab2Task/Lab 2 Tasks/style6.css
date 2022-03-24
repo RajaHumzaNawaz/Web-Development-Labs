@@ -1,0 +1,25 @@
+nav {
+}
+.nav-list {
+  padding: 1rem 0;
+  cursor: pointer;
+}
+
+.nav-item {
+  display: inline;
+  padding: 1rem 2rem;
+  color: white;
+  opacity: 1 !important;
+  font-weight: 400;
+  text-transform: uppercase;
+  cursor: pointer;
+  margin: 20px 1rem;
+  transition: all 0.3s;
+}
+.nav-list a {
+  text-decoration: none;
+}
+.nav-item:hover {
+  background-color: white;
+  color: rgb(27, 27, 27);
+}
