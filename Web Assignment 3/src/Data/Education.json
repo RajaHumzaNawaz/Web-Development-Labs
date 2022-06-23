@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "coursename":"Bachelors of Software Engineering",
+        "courseyear":"2019 - Present",
+        "institute":"Bahria University",
+        "grade":"3.2 CGPA"
+    },
+    {
+        "id":2,
+        "coursename":"Intermediate in Pre-Engineering",
+        "courseyear":"2016 - 2017",
+        "institute":"Bahria Model College",
+        "grade":"78% Percentage"
+    },
+    {
+        "id":3,
+        "coursename":"Matriculation",
+        "courseyear":"2014 - 2015",
+        "institute":"Bahria Model School",
+        "grade":"84% Percentage"
+    }
+]
